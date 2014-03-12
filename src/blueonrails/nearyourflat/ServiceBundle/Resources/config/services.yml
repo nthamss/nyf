@@ -1,0 +1,7 @@
+parameters:
+#    blueonrailsnearyourflat_service.example.class: blueonrails\nearyourflat\ServiceBundle\Example
+
+services:
+#    blueonrailsnearyourflat_service.example:
+#        class: %blueonrailsnearyourflat_service.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
